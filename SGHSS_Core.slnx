@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SGHSS_Core/SGHSS_Core.csproj" />
+  <Project Path="SGHSS_Testes/SGHSS_Testes.csproj" />
+</Solution>
